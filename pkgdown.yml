@@ -1,0 +1,11 @@
+pandoc: '2.5'
+pkgdown: 1.6.1
+pkgdown_sha: ~
+articles:
+  circle: circle.html
+  tic: tic.html
+last_built: 2021-03-17T09:19Z
+urls:
+  reference: https://docs.ropensci.org/circle/reference
+  article: https://docs.ropensci.org/circle/articles
+
