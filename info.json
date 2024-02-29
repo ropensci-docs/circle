@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "f8a4fbf6f792c3f462df1749b90cca9c31214e3a",
+    "author": "dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",
+    "time": "2023-10-02 08:10:37",
+    "files": 2,
+    "merge": false,
+    "message": "Bump actions/checkout from 3 to 4 (#39)\n\nBumps [actions/checkout](https://github.com/actions/checkout) from 3 to 4.\r\n- [Release notes](https://github.com/actions/checkout/releases)\r\n- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)\r\n- [Commits](https://github.com/actions/checkout/compare/v3...v4)\r\n\r\n---\r\nupdated-dependencies:\r\n- dependency-name: actions/checkout\r\n  dependency-type: direct:production\r\n  update-type: version-update:semver-major\r\n...\r\n\r\nSigned-off-by: dependabot[bot] <support@github.com>\r\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>"
+  },
+  "repo": "https://github.com/ropensci/circle",
+  "pkg": "circle"
+}
