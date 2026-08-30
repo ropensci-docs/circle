@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "e6821d301c8186c032d61ca60f2c438bf2914878",
+    "author": "David Muñoz Tord <david.munoztord@mailbox.org>",
+    "time": "2026-01-22T09:08:36Z",
+    "files": 3,
+    "merge": false,
+    "message": "Fix warning cran (#53)\n\n* remove pycharm ide files\n\n* fix: rocker/verse:devel outdated\n\n* update: add vignettes\n\n* update: add David a maintainer\n\n* fledge: Bump version to 0.7.3.9000\n\n* bump: version to 0.7.4\n\n* bump: version to 0.7.4\n\n* fix: broken link\n\n* update: add advanced vignette close #14\n\n* fix: windows warnings\n\n* Update tic.R\n\n* fix: windows warnings\n\n* fix: windows warnings\n\n* fix: windows warnings\n\n* fix: windows warnings\n\n* fix: windows warnings\n\n* fix: pkgdown warnings"
+  },
+  "repo": "https://github.com/ropensci/circle",
+  "pkg": "circle",
+  "time": "2026-08-30T07:55:37Z"
+}
